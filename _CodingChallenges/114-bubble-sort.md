@@ -70,6 +70,12 @@ contributions:
       url: "https://chief141.github.io/chiefdev"
     url: "https://repl.it/@chief141/Bubble-sorting-visualize"
     source: "https://github.com/chief141/Coding-Train-Challenges-python/tree/master/bubble_sorting_visualize"
+    - title: "C++ Implementation using SDL2"
+      author:
+      name: "Harshal"
+      source: "https://github.com/harshal-99/VisualizeAlgorithm"
+      
+      
 ---
 
 In this coding challenge, I implement a "bubble sort" algorithm in Processing (Java) and sort randomly generated lines. [#SortingTrain](https://twitter.com/hashtag/SortingTrain)
